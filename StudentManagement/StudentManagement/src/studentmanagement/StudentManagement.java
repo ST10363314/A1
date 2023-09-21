@@ -50,7 +50,7 @@ public class StudentManagement {
                     // Exit the application
                     Student.exitStudentApplication();
                     System.exit(0);
-                    break;
+                    break; // (www.w3schools.com, n.d.)
                 default:
                     System.out.println("Invalid choice. Please select a valid option.");
                     break;
@@ -135,4 +135,7 @@ public class StudentManagement {
     }
         
     }
+
+//References
+//www.w3schools.com. (n.d.). Java switch Keyword. [online] Available at: https://www.w3schools.com/java/ref_keyword_switch.asp [Accessed 20 Sep. 2023].
     
